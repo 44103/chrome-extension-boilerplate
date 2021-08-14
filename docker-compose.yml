@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    image: node:14
+    tty: true
+    volumes:
+      - ./app:/usr/src/enhanced_search
+    ports:
+      - "3000:3000"
