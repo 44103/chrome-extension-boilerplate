@@ -1,3 +1,4 @@
+[English](./README.md) / 日本語
 # Chrome拡張機能の環境
 
 ## 導入

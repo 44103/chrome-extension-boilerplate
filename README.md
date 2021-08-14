@@ -1,4 +1,4 @@
-[日本語](./README.jp.md)
+English / [日本語](./README.jp.md)
 
 # Environment for Chrome Extension
 
