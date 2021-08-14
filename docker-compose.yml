@@ -4,5 +4,4 @@ services:
     image: node:14
     tty: true
     volumes:
-      - ./app:/usr/src/enhanced_search
-      
+      - ./app:/app
