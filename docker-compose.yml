@@ -5,5 +5,4 @@ services:
     tty: true
     volumes:
       - ./app:/usr/src/enhanced_search
-    ports:
-      - "3000:3000"
+      
