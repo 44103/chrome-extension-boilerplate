@@ -4,4 +4,7 @@ services:
     image: node:14
     tty: true
     volumes:
-      - ./app:/app
+      - ./:/work
+    working_dir: "/work"
+    command: >
+      sh -c "./install.sh"

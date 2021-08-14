@@ -18,7 +18,4 @@ Install List
    ```
 3. Enter in the container  
    (e.g. Attach Visual Studio Code)
-1. Execution installation shell
-   ```sh
-   ./install.sh
-   ```
+1. Wait until dist directory is created
