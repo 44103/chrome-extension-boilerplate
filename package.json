@@ -1,0 +1,19 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kenko Yoshitomi <kyoshitomi.cursor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^1.0.14",
+    "@types/chrome": "^0.0.267",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "eslint": "^9.2.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
