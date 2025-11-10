@@ -37,3 +37,7 @@ rm -rf "$DEVCONTAINER_TARGET_DIR/.git"
 
 echo "Setup complete for '$TARGET_DIR_NAME'."
 echo "You can now navigate into '$TARGET_DIR_NAME' and open it in VS Code with Remote-Containers."
+
+# Remove the install.sh script itself
+echo "Removing the install.sh script..."
+rm -f "$0"
